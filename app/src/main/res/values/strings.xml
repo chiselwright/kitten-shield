@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kitten Shield</string>
+    <string name="textview">«URL»</string>
+    <string name="you_have_been_saved_from">You Have Been Saved From Viewing</string>
+</resources>
