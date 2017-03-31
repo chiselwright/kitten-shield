@@ -34,8 +34,12 @@
                 android:host="dailym.ai"
                 android:pathPrefix="/"
                 />
-                
+
             // www.express.co.uk
+            <data android:scheme="http"
+                android:host="*.express.co.uk"
+                android:pathPrefix="/"
+                />
             <data android:scheme="http"
                 android:host="*.express.co.uk"
                 android:pathPrefix="/"
